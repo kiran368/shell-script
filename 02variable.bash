@@ -1,7 +1,7 @@
 #!/bin/bash
 #sample conversation with variables
 #Declare variable name should be in capital letters
-PERSON1=rakesh
+PERSON1=Rakesh
 PERSON2=Rahul
 
 # call variable $ or ${}
