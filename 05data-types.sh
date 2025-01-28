@@ -1,5 +1,7 @@
 #!/bin/bash
 #data types example
+#NUM1=$1
+#NUM2=$2
 echo enter NUM1
 read NUM1
 echo enter NUM2
