@@ -8,4 +8,3 @@ echo "please enter your password :"
 #reading inputs with hide
 #-s denotes secure
 read -s "PWD"
-echo "${PWD}"
