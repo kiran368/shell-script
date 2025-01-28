@@ -5,5 +5,7 @@ echo "please enter username : "
 read "USERNAME"
 echo "username is : ${USERNAME}"
 echo "please enter your password :"
-read "PWD"
+#reading inputs with hide
+#-s denotes secure
+read -s "PWD"
 echo "${PWD}"
