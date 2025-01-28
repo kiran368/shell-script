@@ -1,5 +1,5 @@
 #!/bin/bash
 #data types example
 
-DATE=${date}
-echo "${DATE}"
+TIMESTAMP=$(date)
+echo "${TIMESTAMP}"
